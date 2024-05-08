@@ -1,4 +1,4 @@
 teacher = "Hashimoto"
-job = "semi professor"
+job = "professor"
 
 print(teacher + job)
